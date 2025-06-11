@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**Ice-Anticheat/Ice-Anticheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Ice-Anticheat is an fully free anticheat with the best cheat trigger and instant banns!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+# Features
+__- Anti Godmode
+- Anti Noclip
+- Anti Invisible
+- Anti Giveweapon
+- Anti Givevehicle
+- Anti Spawn Vehicle
+- Anti Freecam
+- Anti PedSpawn
+- Anti Aimbot
+- Anti Silent Aim
+- Anti Triggerbot
+- Anti Explosion
+- Anti No Spread
+- Anti Rapid Fire
+- Anti VPN
+- Anti Superjump
+- Anti Cheat Revive
+- Anti Spectate
+- Anti Platechanger
+- Anti Server Dump
+- Anti Server Trigger
+- Anti Lua Injection
+- Anti Spam Trigger
+- Anti Blacklist Name
+- Anti Blacklist Weapon
+- Anti Blacklist Vehicle
+- Anti Blacklist Outfit
+- Anti Prop Spawn__
