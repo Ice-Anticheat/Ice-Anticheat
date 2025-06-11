@@ -8,7 +8,7 @@
 
 
 # Features
-__- Anti Godmode
+`- Anti Godmode
 - Anti Noclip
 - Anti Invisible
 - Anti Giveweapon
@@ -35,4 +35,4 @@ __- Anti Godmode
 - Anti Blacklist Weapon
 - Anti Blacklist Vehicle
 - Anti Blacklist Outfit
-- Anti Prop Spawn__
+- Anti Prop Spawn`
